@@ -1,10 +1,5 @@
-<?php include("head.php") ?>
-
+<?php include("frames/_head.php") ?>
 <div class="boxed-container">
-  <?php include("_loader.php") ?>
-  <?php include("_styler.php") ?>
-  <?php include("_top.php") ?>
-
   <div class="main-container">
     <main>
       <!-- Page Banner -->
@@ -62,56 +57,7 @@
       </div>
       <!-- About Section -->
 
-      <!-- Team Section -->
-      <div class="team-section container-fluid no-left-padding no-right-padding">
-        <!-- Container -->
-        <div class="container">
-          <!-- Section Header -->
-          <div class="section-header">
-            <h3>Doctors</h3>
-          </div>
-          <div class="team-carousel">
-            <div class="col-md-12">
-              <div class="team-content">
-                <div class="team-box">
-                  <img src="assets/images/team-1.jpg" alt="team" />
-                  <h5>Washington Freire</h5>
-                </div>
-                <span class="team-catagory">Pathologist</span>
-              </div>
-            </div>
-            <div class="col-md-12">
-              <div class="team-content">
-                <div class="team-box">
-                  <img src="assets/images/team-2.jpg" alt="team" />
-                  <h5>Marco Freire</h5>
-                </div>
-                <span class="team-catagory">Cardiologist</span>
-              </div>
-            </div>
-            <div class="col-md-12">
-              <div class="team-content">
-                <div class="team-box">
-                  <img src="assets/images/team-3.jpg" alt="team" />
-                  <h5>Jeremy Duncan</h5>
-                </div>
-                <span class="team-catagory">Neurologist</span>
-              </div>
-            </div>
-            <div class="col-md-12">
-              <div class="team-content">
-                <div class="team-box">
-                  <img src="assets/images/team-4.jpg" alt="team" />
-                  <h5>Tedd Justice</h5>
-                </div>
-                <span class="team-catagory">Pediatrician</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Container /- -->
-      </div>
-      <!-- Team Section /- -->
+      <?php include("modules/_team.php") ?>
 
       <!-- Testimonial Section -->
       <div class="testimonial-section container-fluid no-left-padding no-right-padding">
@@ -548,4 +494,5 @@
       <!-- Carrier Section /- -->
     </main>
   </div>
-  <?php include("foot.php") ?>
+</div>
+<?php include("frames/_foot.php") ?>
