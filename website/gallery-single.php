@@ -6,12 +6,12 @@
 			<!-- Container -->
 			<div class="container">
 				<div class="page-banner-content">
-					<h3>Gallery</h3>
+					<h3>Galería</h3>
 				</div>
 				<div class="banner-content">
 					<ol class="breadcrumb">
 						<li><a href="index.php">Inicio</a></li>
-						<li class="active">Gallery Single</li>
+						<li class="active">Galería</li>
 					</ol>
 				</div>
 			</div><!-- Container /- -->
@@ -25,19 +25,19 @@
 				<div class="flexslider gallery-details-full">
 					<ul class="slides">
 						<li>
-							<img src="assets/images/large-thumb.jpg" alt="large-thumb" width="1170" height="500" />
+							<img src="assets/images/large-thumb1.jpg" alt="large-thumb" width="1170" height="500" />
 						</li>
 						<li>
-							<img src="assets/images/large-thumb.jpg" alt="large-thumb" width="1170" height="500" />
+							<img src="assets/images/large-thumb2.jpg" alt="large-thumb" width="1170" height="500" />
 						</li>
 						<li>
-							<img src="assets/images/large-thumb.jpg" alt="large-thumb" width="1170" height="500" />
+							<img src="assets/images/large-thumb3.jpg" alt="large-thumb" width="1170" height="500" />
 						</li>
 						<li>
-							<img src="assets/images/large-thumb.jpg" alt="large-thumb" width="1170" height="500" />
+							<img src="assets/images/large-thumb4.jpg" alt="large-thumb" width="1170" height="500" />
 						</li>
 						<li>
-							<img src="assets/images/large-thumb.jpg" alt="large-thumb" width="1170" height="500" />
+							<img src="assets/images/large-thumb5.jpg" alt="large-thumb" width="1170" height="500" />
 						</li>
 					</ul>
 				</div>

@@ -35,8 +35,8 @@
                     <li class="active">
                         <a title="Home" href="index.php">Inicio</a>
                     </li>
-                    <li><a title="About" href="about.php">PROFESIONALES</a></li>
-                    <li><a title="Services" href="services.php">Services</a></li>
+                    <li><a title="About" href="about.php">Profesionales</a></li>
+                    <li><a title="Services" href="services.php">Patologías</a></li>
                     <li><a title="Doctor" href="#team-section">Doctor</a></li>
                     <li><a title="Work" href="gallery.php">Work</a></li>
                     <li class="dropdown">
