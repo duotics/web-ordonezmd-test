@@ -74,8 +74,8 @@
             <div class="col-md-12">
               <div class="team-content">
                 <div class="team-box">
-                  <img src="assets/images/team-1.png" alt="team" />
-                  <h5>Alan Dark</h5>
+                  <img src="assets/images/team-1.jpg" alt="team" />
+                  <h5>Washington Freire</h5>
                 </div>
                 <span class="team-catagory">Pathologist</span>
               </div>
@@ -83,8 +83,8 @@
             <div class="col-md-12">
               <div class="team-content">
                 <div class="team-box">
-                  <img src="assets/images/team-2.png" alt="team" />
-                  <h5>Knox Ulmar</h5>
+                  <img src="assets/images/team-2.jpg" alt="team" />
+                  <h5>Marco Freire</h5>
                 </div>
                 <span class="team-catagory">Cardiologist</span>
               </div>
@@ -92,7 +92,7 @@
             <div class="col-md-12">
               <div class="team-content">
                 <div class="team-box">
-                  <img src="assets/images/team-3.png" alt="team" />
+                  <img src="assets/images/team-3.jpg" alt="team" />
                   <h5>Jeremy Duncan</h5>
                 </div>
                 <span class="team-catagory">Neurologist</span>
@@ -101,7 +101,7 @@
             <div class="col-md-12">
               <div class="team-content">
                 <div class="team-box">
-                  <img src="assets/images/team-4.png" alt="team" />
+                  <img src="assets/images/team-4.jpg" alt="team" />
                   <h5>Tedd Justice</h5>
                 </div>
                 <span class="team-catagory">Pediatrician</span>
