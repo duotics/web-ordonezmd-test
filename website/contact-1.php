@@ -1,6 +1,5 @@
 <?php include("frames/_head.php") ?>
 <div class="boxed-container">
-	<?php include("_top.php") ?>
 	<div class="main-container">
 		<main>
 			<!-- Page Banner -->

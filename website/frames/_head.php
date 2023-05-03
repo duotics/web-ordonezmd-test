@@ -15,7 +15,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Doctor - About</title>
+  <title>CENTRO FREIMO</title>
 
   <!-- Standard Favicon -->
   <link rel="icon" type="image/x-icon" href="assets/images//favicon.ico" />

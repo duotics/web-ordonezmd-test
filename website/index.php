@@ -14,7 +14,7 @@
         <div class="container">
           <!-- Section Header -->
           <div class="section-header">
-            <h3>Our News</h3>
+            <h3>Noticias</h3>
           </div>
           <!-- Section Header /- -->
           <div class="row">
