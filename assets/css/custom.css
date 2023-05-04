@@ -1,0 +1,5 @@
+.header_s a.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /*With this configuration Logo can be height 60px*/
+}

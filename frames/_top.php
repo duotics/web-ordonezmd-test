@@ -7,10 +7,10 @@
         <div class="default-top row">
             <div class="logo-block">
                 <a class="navbar-brand mobile-hide" href="index.php">
-                    <img src="assets/images/logo-freimo-min-03.jpg" alt="" class="img-fluid" />
+                    <img src="assets/images/logo-02.png" alt="" class="img-fluid" />
                 </a>
             </div>
-            <a href="tel:386489550686" title="+386 489 550 686" class="phone-call"><i class="fa fa-phone-square"></i>+593 99 517 0318</a>
+            <a href="tel:593998287568" title="+593 99 828 7568" class="phone-call"><i class="fa fa-phone-square"></i>+593 99 828 7568</a>
         </div>
         <!-- Top Header /- -->
     </div>

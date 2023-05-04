@@ -54,6 +54,7 @@
   <link id="color" href="assets/css/color-schemes/default.css" rel="stylesheet" />
   <!-- Custom - Theme CSS -->
   <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 
   <!--[if lt IE 9]>
       <script src="js/html5/respond.min.js"></script>
