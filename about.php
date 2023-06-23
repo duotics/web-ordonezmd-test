@@ -18,7 +18,7 @@
         </div>
         <!-- Container /- -->
       </div>
-      <!-- Page Banner -->
+      <!-- Page Banner --> 
 
       <!-- About Section -->
       <div class="about-section container-fluid no-left-padding no-right-padding">

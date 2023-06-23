@@ -10,7 +10,7 @@
             <div class="col-md-12">
                 <div class="team-content">
                     <div class="team-box">
-                        <a href="profesionales-wfreireh.php">
+                        <a href="profesionales-01.php">
                             <img src="assets/images/team-1.jpg" alt="team" />
                             <h5>Washington Freire H.</h5>
                         </a>

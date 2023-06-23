@@ -7,13 +7,13 @@
         <!-- Container -->
         <div class="container">
           <div class="page-banner-content">
-            <h3>Dr. Washington Freire Heredia</h3>
+            <h3>Dr. José Ricardo Ordoñez V.</h3>
           </div>
           <div class="banner-content">
             <ol class="breadcrumb">
               <li><a href="index.php">Inicio</a></li>
               <li><a href="profesionales.php">Profesionales</a></li>
-              <li class="active">Dr. Washington Freire Heredia</li>
+              <li class="active">Dr. José Ricardo Ordoñez V.</li>
             </ol>
           </div>
         </div>
